@@ -1,0 +1,2 @@
+# competition
+Minning Competition
